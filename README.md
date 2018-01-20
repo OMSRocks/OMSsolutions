@@ -1,2 +1,2 @@
 # OMSsolutions
-OMS solutions
+OMS solutions contains solutions for OMS
